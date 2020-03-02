@@ -1,12 +1,12 @@
 {
   "name": "quality-releases",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "main": "index.js",
   "private": true,
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "github.com/codarme/lesson-quality-releases"
+    "url": "git@github.com:codarme/lesson-quality-releases"
   },
   "scripts": {
     "release": "semantic-release --no-ci"
